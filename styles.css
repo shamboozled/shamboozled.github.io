@@ -1,3 +1,32 @@
-/* body {
+@import url('https://fonts.googleapis.com/css2?family=Aleo&display=swap');
+
+body {
+        max-width: 800px;
+        margin: auto;
+        padding: 1em;
         font-family: Calibri, sans-serif;
-} */
+        font-size: 20px;
+        background-color:whitesmoke;
+}
+
+#profile_pic {
+        float: right;
+        width: 200px;
+        border-radius: 50px;
+}
+
+h1 {
+        font-family: 'Aleo', serif;
+        font-weight: normal;
+        font-size: 40px;
+}
+
+h3 {
+        font-family: Calibri, serif;
+        font-weight: normal;
+        font-size: 22px;
+}
+
+a {
+        color:green;
+}
